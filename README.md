@@ -41,29 +41,6 @@ npm run dev
 npm run build
 ```
 
-## Структура проекта
-
-```
-mortgage-calculator/
-├── src/
-│   ├── assets/
-│   │   └── styles/
-│   │       ├── variables.scss
-│   │       └── main.scss
-│   ├── components/
-│   │   ├── LoanPurpose.vue
-│   │   ├── TariffSelection.vue
-│   │   ├── PropertyCost.vue
-│   │   ├── DownPayment.vue
-│   │   ├── LoanTerm.vue
-│   │   └── CalculationResults.vue
-│   └── App.vue
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
 ## Лицензия
 
 MIT
